@@ -28,10 +28,24 @@ The goal is to understand sales trends, pricing patterns, and brand performance.
 
 ---
 
+# Dataset Description
+
+The dataset `car_sales.csv` contains the following columns:
+
+| Column Name   | Description | Data Type |
+|---------------|-------------|-----------|
+| **Date**      | Month/year of sales | `Date` |
+| **Brand**     | Car manufacturing company | `Character` / `Factor` |
+| **Model**     | Specific model name | `Character` |
+| **Price**     | Price of the car (in currency) | `Numeric` |
+| **Units_Sold**| Number of units sold | `Integer` |
+
+
 # Load Required Libraries
 
 ```{r}
 library(readr)
 library(dplyr)
+
 library(ggplot2)
 library(tidyr)
