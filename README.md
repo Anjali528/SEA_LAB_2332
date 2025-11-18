@@ -8,9 +8,15 @@ output:
 
 # Introduction
 
-This report analyzes the **Car Sales Dataset** using R.  
-We generate multiple visualizations such as:
+This report presents a complete analysis of the **Car Sales Dataset**, using various statistical graphics to understand:
 
+- Price distribution  
+- Brand-wise sales performance  
+- Relationships between variables  
+- Market share  
+- Time-based sales trends
+
+Visualizations used:
 - Histogram  
 - Bar Plot  
 - Scatter Plot  
