@@ -47,6 +47,7 @@ The dataset `car_sales.csv` contains the following columns:
 library(readr)
 library(dplyr)
 library(ggplot2)
+library(tidyr)
 
 ## R Code File
 
@@ -62,5 +63,5 @@ To run the file:
 source("car_sales_analysis")
 
 
-library(tidyr)
+
 
