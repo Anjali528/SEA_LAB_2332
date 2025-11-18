@@ -1,0 +1,21 @@
+Date,Model,Brand,Units_Sold,Price,Region,Fuel_Type
+2024-01-15,Model A,Toyota,25,15000,North,Petrol
+2024-01-20,Model B,Honda,18,17000,South,Diesel
+2024-02-03,Model A,Toyota,30,15000,East,Petrol
+2024-02-18,Model C,Ford,12,20000,North,Petrol
+2024-03-05,Model D,Hyundai,22,14000,West,Diesel
+2024-03-20,Model B,Honda,20,17000,South,Petrol
+2024-04-10,Model E,Kia,15,16000,East,Hybrid
+2024-04-21,Model A,Toyota,28,15000,North,Petrol
+2024-05-01,Model C,Ford,18,20000,West,Diesel
+2024-05-15,Model B,Honda,25,17000,South,Petrol
+2024-06-05,Model D,Hyundai,30,14000,East,Diesel
+2024-06-18,Model E,Kia,10,16000,North,Hybrid
+2024-07-02,Model F,Maruti,40,9000,South,Petrol
+2024-07-19,Model A,Toyota,35,15000,West,Petrol
+2024-08-01,Model G,BMW,5,45000,North,Diesel
+2024-08-15,Model B,Honda,28,17000,East,Petrol
+2024-09-05,Model F,Maruti,50,9000,South,Petrol
+2024-09-20,Model D,Hyundai,15,14000,West,Diesel
+2024-10-02,Model C,Ford,20,20000,East,Petrol
+2024-10-18,Model A,Toyota,32,15000,North,Petrol
