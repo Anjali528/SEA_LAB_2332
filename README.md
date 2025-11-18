@@ -46,6 +46,8 @@ The dataset `car_sales.csv` contains the following columns:
 ```{r}
 library(readr)
 library(dplyr)
+library(ggplot2)
+library(tidyr)
 
 library(ggplot2)
 library(tidyr)
