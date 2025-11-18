@@ -47,5 +47,19 @@ The dataset `car_sales.csv` contains the following columns:
 library(readr)
 library(dplyr)
 library(ggplot2)
+
+## R Code File
+
+ **File:** `car_sales_analysis`
+This R script includes:
+- Data loading  
+- 5 different types of plots  
+- Clean, commented code  
+
+To run the file:
+```r
+# In RStudio or R Console:
+source("car_sales_analysis")
+
 library(tidyr)
 
